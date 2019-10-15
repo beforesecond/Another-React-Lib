@@ -1,0 +1,16 @@
+.flex {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-left {
+  justify-content: start;
+}
+
+.justify-end {
+  justify-content: end;
+}
