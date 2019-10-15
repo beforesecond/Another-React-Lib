@@ -1,9 +1,8 @@
-
-import LoadingButton from './LoadingButton'
-import SimpleRedButton from './SimpleRedButton/SimpleRedButton'
-import Button from './Button/Button'
-import Navbar from './Navbar/Navbar'
-import NavItems from './Navbar/NavItems'
+import LoadingButton from "./LoadingButton";
+import SimpleRedButton from "./SimpleRedButton/SimpleRedButton";
+import Button from "./Button/Button";
+import Navbar from "./Navbar/Navbar";
+import NavItems from "./Navbar/NavItems";
 import GhostButton from "./GhostButton/GhostButton";
 import Header from "./Header/Header";
 import Form from "./Form/Form";
@@ -23,7 +22,7 @@ import Notification from "./Notification/Notification";
 import ExtendedText from "./ExtendedText/ExtendedText";
 import List from "./List/List";
 
-import Spinner from "./Spinner/Spinner"
+import Spinner from "./Spinner/Spinner";
 import Checkbox from "./Checkbox/Checkbox";
 import StickyButton from "./StickyButton/StickyButton";
 import Searchbar from "./SearchBar/Searchbar";
@@ -32,6 +31,7 @@ import DeleteButton from "./DeleteButton/DeleteButton";
 import Reaction from "./Reaction/Reaction";
 import AlertWrapper from "./AlertWrapper/AlertWrapper";
 import Card from "./Card/Card";
+import Flex from "./Flex/Flex";
 
 export {
   LoadingButton,
@@ -68,5 +68,6 @@ export {
   Navbar,
   NavItems,
   AlertWrapper,
-  Card
+  Card,
+  Flex
 };
